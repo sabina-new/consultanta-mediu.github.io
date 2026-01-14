@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sabina-new.github.io/consultanta-mediu.github.io/sitemap.xml
