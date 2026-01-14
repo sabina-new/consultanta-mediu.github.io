@@ -12,6 +12,18 @@ header {
     text-align: center;
 }
 
+nav {
+    background-color: #1f3d2b;
+    padding: 15px 40px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
 section {
     max-width: 1000px;
     margin: auto;
@@ -31,4 +43,18 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+form button {
+    background-color: #2f6f4e;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
 }
